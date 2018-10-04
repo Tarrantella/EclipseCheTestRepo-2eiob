@@ -1,6 +1,0 @@
-[submodule "Repo_For_Test"]
-	path = Repo_For_Test
-	url = https://github.com/Tarrantella/EclipseCheTestRepo-id10l.git
-[submodule "testRepo"]
-	path = testRepo
-	url = https://github.com/Tarrantella/EclipseCheTestRepo-c7mk4.git
